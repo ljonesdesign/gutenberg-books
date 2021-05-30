@@ -2,7 +2,6 @@
 ## Pre Approved Books for Documenation Project
 
 * The Forest Beyond the Woodlands by Mildred Kennedy [http://www.gutenberg.org/ebooks/57604](http://www.gutenberg.org/ebooks/57604) 
-* Zigzag Journeys in the White City by Hezekiah Butterworth [http://www.gutenberg.org/ebooks/57637](http://www.gutenberg.org/ebooks/57637) 
 * The Principles of Psychology, Volume 1 (of 2) by William James [http://www.gutenberg.org/ebooks/57628](http://www.gutenberg.org/ebooks/57628) 
 * The Health Master by Samuel Hopkins Adams [http://www.gutenberg.org/ebooks/57543](http://www.gutenberg.org/ebooks/57543) 
 * Striped Coat, the Skunk by Joseph by Wharton Lippincott [http://www.gutenberg.org/ebooks/57619](http://www.gutenberg.org/ebooks/57619) 
