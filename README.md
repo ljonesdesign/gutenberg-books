@@ -17,7 +17,7 @@ Title | Author | Gutenberg Link
  My German Prisons | H. G. Gilliland | [http://www.gutenberg.org/ebooks/57602](http://www.gutenberg.org/ebooks/57602) 
  My Year in a Log Cabin | William Dean Howells | [http://www.gutenberg.org/ebooks/57341](http://www.gutenberg.org/ebooks/57341) 
  On Sunset Highways | Thomas Dowler Murphy | [http://www.gutenberg.org/ebooks/57580](http://www.gutenberg.org/ebooks/57580) 
- Padre Island Story (don’t include pictures) | [http://www.gutenberg.org/ebooks/57118](http://www.gutenberg.org/ebooks/57118)
+ Padre Island Story | Loraine Daly and Pat Reumert | [http://www.gutenberg.org/ebooks/57118](http://www.gutenberg.org/ebooks/57118)
  Peter | E. F. Benson | [http://www.gutenberg.org/ebooks/57568](http://www.gutenberg.org/ebooks/57568) 
  Pictures and Problems from London Police Courts | Thomas Holmes | [http://www.gutenberg.org/ebooks/56907](http://www.gutenberg.org/ebooks/56907) 
  Popular Superstitions, and the Truths Contained Therein | Herbert Mayo | [https://www.gutenberg.org/ebooks/58197](https://www.gutenberg.org/ebooks/58197)
