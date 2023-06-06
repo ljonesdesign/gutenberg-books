@@ -29,7 +29,7 @@ Title | Author | Gutenberg Link
  Roman Women | Alfred Brittain | [http://www.gutenberg.org/ebooks/32356](http://www.gutenberg.org/ebooks/32356) 
  Sicily in Shadow and in Sun | Maud Howe Elliott | [https://www.gutenberg.org/ebooks/58455](https://www.gutenberg.org/ebooks/58455) 
  Silverspur | Edward Willett | [http://www.gutenberg.org/ebooks/57589](http://www.gutenberg.org/ebooks/57589) 
- Striped Coat, the Skunk | Joseph Wharton Lippincott | <https://www.gutenberg.org/files/57619>
+ Striped Coat, the Skunk | Joseph Wharton Lippincott | <https://www.gutenberg.org/ebooks/57619>
  Sun and Shadow in Spain | Maude Howe Elliott | [https://www.gutenberg.org/ebooks/58468](https://www.gutenberg.org/ebooks/58468) 
  Tales from the Gesta Romanorum | Charles Swan | [https://www.gutenberg.org/ebooks/58655](https://www.gutenberg.org/ebooks/58655) 
  The Adventures of an Ugly Girl | Elizabeth Burgoyne Corbett | [https://www.gutenberg.org/ebooks/58082](https://www.gutenberg.org/ebooks/58082)
